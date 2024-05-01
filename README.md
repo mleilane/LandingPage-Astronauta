@@ -5,7 +5,7 @@ Prenda-se e prepare-se para decolar para o mundo dos designs inovadores de capac
 
 <h2 align="center"> Missão 🌟  </h2> 
 
-Nesta emocionante jornada, desenvolvida durante o Clube do Portfolio do Dev Club, tive a oportunidade de aprimorar minhas habilidades em HTML e CSS, 
+Nesta emocionante jornada, desenvolvida durante o "Clube do Portfólio" pelo <a href="https://rodolfomori.com.br/devclub"> Dev Club </a>, tive a oportunidade de aprimorar minhas habilidades em HTML e CSS, 
 explorando minha criatividade para modificar alguns detalhes e deixar minha marca única neste projeto. 
 
 
@@ -13,7 +13,6 @@ explorando minha criatividade para modificar alguns detalhes e deixar minha marc
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-html#" height="30" width="40" src="https://raw.githubusercontent.com/mleilane/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg">
-  <img align="center" alt="Maria-javascript#" height="30" width="40" src="https://raw.githubusercontent.com/mleilane/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/JavaScript.svg">
   <img align="center" alt="Maria-css#" height="30" width="40" src="https://raw.githubusercontent.com/mleilane/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CSS.svg">
  
 </div>
