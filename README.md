@@ -3,6 +3,8 @@
 <p> Bem-vindo ao projeto "Landing Page Astronauta 👩‍🚀 | Capacetes Rocketeer", onde levamos você em uma jornada cósmica para explorar o futuro da tecnologia de proteção para a cabeça! 🪐✨ 
 Prenda-se e prepare-se para decolar para o mundo dos designs inovadores de capacetes.</p>
 
+Disponivel no link: <a href="https://mleilane.github.io/Landing_Page_Astronauta/"> LandingPage_Astronauta </a> 
+
 <h2 align="center"> Missão 🌟  </h2> 
 
 Nesta emocionante jornada, desenvolvida durante o "Clube do Portfólio" pelo <a href="https://rodolfomori.com.br/devclub"> Dev Club </a>, tive a oportunidade de aprimorar minhas habilidades em HTML e CSS, 
