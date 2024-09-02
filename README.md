@@ -3,7 +3,8 @@
 <p> Bem-vindo ao projeto "Landing Page Astronauta 👩‍🚀 | Capacetes Rocketeer", onde levamos você em uma jornada cósmica para explorar o futuro da tecnologia de proteção para a cabeça! 🪐✨ 
 Prenda-se e prepare-se para decolar para o mundo dos designs inovadores de capacetes.</p>
 
-Disponivel no link: <a href="https://mleilane.github.io/Landing_Page_Astronauta/"> LandingPage_Astronauta </a> 
+## 🔗 Link para o Deploy: 
+* Veja a versão ao vivo do projeto aqui:<a href="https://ml-landingpage-astronauta.netlify.app/"> LandingPage Astronauta 👩‍🚀</a>
 
 <h2 align="center"> Missão 🌟  </h2> 
 
